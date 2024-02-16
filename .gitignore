@@ -1,0 +1,8 @@
+# Ignorar la carpeta de entorno virtual
+venv/
+
+# Ignorar archivos de bytecode compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
